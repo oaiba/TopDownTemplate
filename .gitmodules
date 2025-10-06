@@ -1,0 +1,6 @@
+[submodule "Plugins/OBNavigation"]
+	path = Plugins/OBNavigation
+	url = https://github.com/oaiba/OBNavigation.git
+[submodule "Plugins/OBPanoramicMinimapGenerator"]
+	path = Plugins/OBPanoramicMinimapGenerator
+	url = https://github.com/oaiba/OBPanoramicMinimapGenerator.git
