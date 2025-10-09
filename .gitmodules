@@ -4,3 +4,6 @@
 [submodule "Plugins/OBPanoramicMinimapGenerator"]
 	path = Plugins/OBPanoramicMinimapGenerator
 	url = https://github.com/oaiba/OBPanoramicMinimapGenerator.git
+[submodule "Plugins/OBOcclusion"]
+	path = Plugins/OBOcclusion
+	url = https://github.com/oaiba/OBOcclusion.git
