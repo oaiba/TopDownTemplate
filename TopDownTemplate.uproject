@@ -29,6 +29,10 @@
 		{
 			"Name": "OBNavigation",
 			"Enabled": true
+		},
+		{
+			"Name": "OBOcclusion",
+			"Enabled": true
 		}
 	]
 }
